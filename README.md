@@ -1,5 +1,5 @@
 ## API de Games
-Esta API é utilizada principalmente para listar, criar, atualizar e deletar games.
+Esta API é utilizada para listar, criar, atualizar e deletar games.
 
 
 ## Endpoints
